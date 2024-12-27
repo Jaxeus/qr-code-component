@@ -28,7 +28,7 @@ This is my attempt at the QR Code Component. I tried my best to get it exactly a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-could-use-feedback-on-sizingresponsiveness-dGnEOvUKLp)
 - Live Site URL: [Add live site URL here](https://jaxeus.github.io/qr-code-component/)
 
 ## My process
